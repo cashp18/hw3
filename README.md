@@ -6,5 +6,5 @@ Charts:
 
 ![graph1](https://github.com/cashp18/hw3/blob/main/plotOfYX.PNG)
 
-![graph2](https://github.com/cashp18/hw3/blob/main/linearRegressionEquation.PNGz)
+![graph2](https://github.com/cashp18/hw3/blob/main/linearRegressionEquation.PNG)
 
